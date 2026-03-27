@@ -8,7 +8,7 @@ package index
 import (
 	"io"
 
-	"github.com/cuhsat/go-bgzf/bgzf"
+	"github.com/f0x4n6/go-bgzf/bgzf"
 )
 
 // ReferenceStats holds mapping statistics for a genomic reference.

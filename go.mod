@@ -1,3 +1,3 @@
-module github.com/cuhsat/go-bgzf
+module github.com/f0x4n6/go-bgzf
 
-go 1.25
+go 1.26
